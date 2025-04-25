@@ -19,7 +19,13 @@ anyone with this link can access the data.
 
 the data is decrypted by the browser once the link is opened again.
 
-[try it out](https://vrbqt.de/d/?tkn=qRxDhHIFNjHQNNKD#lFttdDhpRd0OeZEcgJ2h7sBgUzrUId9x)
+dropi also has syntax highlighting.
+
+[try it for yourself](https://vrbqt.de/d/)
+
+[or check this message](https://vrbqt.de/d/?tkn=mexFctyTekMJdCyw#Q0aYAsnTuPwF3ybxE1UOrql7zqAfCFwG)
+
+[or do something useful with it like share code with ur friends](https://vrbqt.de/d/?tkn=AVq2wJ6wf9bg25mv#yhtwjTmRcZGKdpSmhaCvAAwCoDrHd8F0)
 
 not even the server admins can decrypt the data unless they have the link
 
