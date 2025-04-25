@@ -7,6 +7,7 @@ __pycache__
 secrets/*
 pepper.key
 dump_key.secret
+util/security.py
 
 # IDE
 .idea/*
@@ -15,7 +16,8 @@ dump_key.secret
 .git
 
 # DB
-alemmbic
+alembic/
+alembic.ini
 
 # compiled stuff
 dropi/photons
@@ -23,3 +25,6 @@ dropi/photons
 # random test data
 dumps
 roses.json
+
+# documentation
+DOC_ENABLED
