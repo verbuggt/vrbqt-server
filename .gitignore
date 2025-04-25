@@ -9,6 +9,12 @@ pepper.key
 dump_key.secret
 util/security.py
 
+# vlink data
+vlink/data
+
+# dev stuff
+scratchpad/
+
 # IDE
 .idea/*
 
