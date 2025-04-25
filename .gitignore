@@ -1,13 +1,12 @@
 # cache
-/venv/
-/__pycache__
-/*/__pycache__
+venv/
+__pycache__
+*/__pycache__
 
 # SECRETS
 secrets/*
-/*.secret
-/pepper.key
-/dump_key.secret
+pepper.key
+dump_key.secret
 
 # IDE
 .idea/*
@@ -16,11 +15,11 @@ secrets/*
 .git
 
 # DB
-/alemmbic
+alemmbic
 
 # compiled stuff
-/dropi/photons
+dropi/photons
 
 # random test data
-/dumps
-/roses.json
+dumps
+roses.json
